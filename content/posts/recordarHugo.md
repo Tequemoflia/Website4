@@ -15,3 +15,6 @@ Revisar en cada caso la documentación del tema cada vez que cambie.
 
 #commando para garantizar la reconstrucción del sitio:
 hugo server --disableFastRender --noHTTPCache -D
+
+REFERENCIAS DE MARKDOWN  
+https://www.markdownguide.org/basic-syntax/

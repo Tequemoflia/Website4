@@ -7,7 +7,7 @@ theme: ananke
 menu:
   main:
   - identifier: about
-    name: about hugo
+    name: about me
     pre: <i class='fa fa-heart'></i>
     url: /about/
     weight: -110
